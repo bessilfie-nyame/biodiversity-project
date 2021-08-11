@@ -1,0 +1,25 @@
+Create a Slide Deck - 1
+Once you’ve performed your analysis, either on your computer or on Codecademy, you’re ready to create your slide deck. One of the most important parts of Data Analysis is being able to communicate your findings.
+
+Create a slide deck using Google Drive, Microsoft Powerpoint, or some other presentation software. Your presentation should include the following:
+
+A title slide
+A section describing the data in species_info.csv. Be sure to include some (or all) of what you noticed while working through the notebook.
+A section describing the significance calculations that you did for endangered status between different categories of species.
+A recommendation for conservationists concerned about endangered species, based on your significance calculations
+A section describing the sample size determination that you did for the foot and mouth disease study
+All of the graphs that you created in the notebook
+If you like, you can also record a video of yourself giving the presentation and upload it to YouTube.
+
+
+Create a Slide Deck - 2
+Create a slide deck using Google Drive , Microsoft Powerpoint, or some other presentation software. Your presentation should include the following:
+
+A title slide
+A description of what happened in this A/B test
+A summary of your dataset and any information you think would be helpful background
+The results of the three hypothesis tests that you ran, including an explanation of the type of test that you used and why it was appropriate
+A summary of the qualitative data
+A recommendation for MuscleHub
+If you like, you can also record a video of yourself giving the presentation and upload it to YouTube.
+
